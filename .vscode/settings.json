@@ -1,0 +1,13 @@
+{
+  "[json]": {
+    "editor.quickSuggestions": {
+      "strings": true
+    },
+    "editor.suggest.insertMode": "replace"
+  },
+  "editor.tokenColorCustomizations": {
+    "comments": "#ffc1fa"
+  },
+  "editor.formatOnSave": true,
+  "javascript.preferences.quoteStyle": "single"
+}
